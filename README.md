@@ -56,6 +56,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 # Kasei Token Compiled and Deployed
 <img width="951" alt="KaseiCoin deployment" src="https://user-images.githubusercontent.com/90729599/155857704-2bf62f47-a7eb-411b-b15a-9a0d3b423390.PNG">
 <img width="856" alt="KaseiCoin" src="https://user-images.githubusercontent.com/90729599/155857705-4627e77e-d9af-4d0b-b1c3-e9525e88f404.PNG">
+<img width="929" alt="kasei token 3" src="https://user-images.githubusercontent.com/90729599/156276323-b01f2ca0-e5b6-4189-a101-72b62fd8112f.PNG">
 
 Kasei Crowdsale deploymnet
 
